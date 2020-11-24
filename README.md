@@ -2,4 +2,4 @@
 Tomato CSS From ARM repo
 
 * /css: Human readable source
-* /dist: Auto minfied
+* /dist: Auto minified
